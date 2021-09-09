@@ -119,7 +119,7 @@ final kProjectsLinks = [
   "https://github.com/steph9600/Rider-App",
   "https://github.com/steph9600/Authy",
   "https://github.com/steph9600/antiques",
-  "https://github.com/steph9600.github.io",
+  "https://github.com/steph9600/steph9600.github.io",
   "https://github.com/steph9600/Chat-App",
   "https://github.com/steph9600/BMI-Calculator",
 ];
